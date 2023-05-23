@@ -29,6 +29,7 @@ https://github.com/hexfa/AmazingClock
 
 ## Inspired by 📱
 - [Giant clock made out of tiny clocks][giant]
+</br></br>
   <a href="https://www.youtube.com/watch?v=ExkVIQ60ClM"><img src="https://github.com/hexfa/Files/raw/main/AmazingClock/orginal-clock.gif" height="300" width="650" alt="Giant clock made out of tiny clocks"></a>
 
 
