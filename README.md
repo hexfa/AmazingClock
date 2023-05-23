@@ -25,11 +25,11 @@ https://github.com/hexfa/AmazingClock
 - [Material Components][material]
 
 ## Preview 📱
-<img src="https://github.com/hexfa/screenshots/raw/main/AmazingClock/clock.gif" height="300" width="650" alt="Amazing Clock Preview">
+<img src="https://github.com/hexfa/Files/raw/main/AmazingClock/clock.gif" height="300" width="650" alt="Amazing Clock Preview">
 
 ## Inspired by 📱
 - [Giant clock made out of tiny clocks][giant]
-  <a href="https://www.youtube.com/watch?v=ExkVIQ60ClM"><img src="https://github.com/hexfa/screenshots/raw/main/AmazingClock/orginal-clock.gif" height="300" width="650" alt="Giant clock made out of tiny clocks"></a>
+  <a href="https://www.youtube.com/watch?v=ExkVIQ60ClM"><img src="https://github.com/hexfa/Files/raw/main/AmazingClock/orginal-clock.gif" height="300" width="650" alt="Giant clock made out of tiny clocks"></a>
 
 
 ## \\|/ ⏳`Update notes`⏳ \\|/
